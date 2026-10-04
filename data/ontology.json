@@ -1,0 +1,120 @@
+{
+  "_note": "Extended for Hindi (hi) pilot — Bhubaneswar, Odisha. Includes Devanagari names, dialect variants, common transliterations, and pests/diseases for Paddy, Tomato, Onion, Potato, Brinjal, and Groundnut.",
+  "crops": {
+    "paddy": {
+      "synonyms": [
+        "paddy", "rice", "dhan", "dhaan", "dhaana",
+        "धान", "नेवारी", "चावल", "धान्य"
+      ]
+    },
+    "tomato": {
+      "synonyms": [
+        "tomato", "tamatar", "tamater", "vilayati baingan",
+        "टमाटर", "टमेटर", "टमाटर की फसल"
+      ]
+    },
+    "onion": {
+      "synonyms": [
+        "onion", "pyaz", "pyaaj", "kanda", "dungri",
+        "प्याज", "पियाज", "कांदा", "डुंगरी"
+      ]
+    },
+    "potato": {
+      "synonyms": [
+        "potato", "aloo", "aaloo", "batata",
+        "आलू", "आलू का कंद", "बटाटा"
+      ]
+    },
+    "brinjal": {
+      "synonyms": [
+        "brinjal", "eggplant", "aubergine", "baingan", "bhanta",
+        "बैंगन", "भंटा", "बैंगण"
+      ]
+    },
+    "groundnut": {
+      "synonyms": [
+        "groundnut", "peanut", "mungfali", "moongphali", "chinia badam",
+        "मूंगफली", "चिनिया बादाम"
+      ]
+    }
+  },
+  "pests": {
+    "whitefly": {
+      "synonyms": [
+        "whitefly", "white fly", "safed makhi", "safed makkhi",
+        "सफेद मक्खी", "सफेद कीड़ा", "श्वेत मक्खी"
+      ]
+    },
+    "aphid": {
+      "synonyms": [
+        "aphid", "aphids", "maahu", "mahu", "chepa", "laahi",
+        "माहू", "चेपा", "लाही", "मोयला"
+      ]
+    },
+    "stem borer": {
+      "synonyms": [
+        "stem borer", "stemborer", "tana bhedhak", "tana chhedak", "dead heart",
+        "तना भेदक", "तना छेदक", "गोभ की सुंडी"
+      ]
+    },
+    "thrips": {
+      "synonyms": [
+        "thrips", "thrips keet", "churda murda",
+        "थ्रिप्स", "चूरड़ा-मूरड़ा", "पत्ता मरोड़ कीड़ा"
+      ]
+    },
+    "late blight": {
+      "synonyms": [
+        "late blight", "pichheti jhulsa", "blight", "pittu",
+        "पिछेती झुलसा", "भूरी झुलसा", "झुलसा रोग", "पिट्टू"
+      ]
+    },
+    "early blight": {
+      "synonyms": [
+        "early blight", "agheti jhulsa",
+        "अगेती झुलसा", "पत्ती धब्बा रोग"
+      ]
+    },
+    "brown planthopper": {
+      "synonyms": [
+        "brown planthopper", "BPH", "bhura fudka", "bhura mahu",
+        "भूरा फुदका", "भूरा प्लान्टहॉपर", "भूरा माहू"
+      ]
+    },
+    "blast": {
+      "synonyms": [
+        "blast", "leaf blast", "neck blast", "jhoka rog",
+        "झोंका रोग", "ब्लास्ट रोग", "गरदन तोड़"
+      ]
+    },
+    "fruit borer": {
+      "synonyms": [
+        "fruit borer", "fal chhedak", "tamatar kida",
+        "फल छेदक", "फल भेदक कीड़ा"
+      ]
+    },
+    "purple blotch": {
+      "synonyms": [
+        "purple blotch", "baingani dhabba",
+        "बैंगनी धब्बा रोग", "पर्पल ब्लॉच"
+      ]
+    }
+  },
+  "stages": [
+    "nursery",
+    "vegetative",
+    "flowering",
+    "fruiting",
+    "harvest",
+    "all"
+  ],
+  "topics": [
+    "pest_disease",
+    "weather",
+    "soil_fertilizer",
+    "market_price",
+    "crop_sowing",
+    "irrigation",
+    "other"
+  ]
+}

@@ -1,0 +1,91 @@
+====================================================
+FARMER QUESTION BANK — HINDI PILOT
+Voice Advisory System | Language: Hindi (hi)
+Crops: Paddy, Tomato, Onion, Potato
+Region: Bhubaneswar, Odisha
+====================================================
+Format: Q<number>|<Hindi question>|<crop>|<topic>
+Topics: pest_disease, irrigation, soil_fertilizer,
+        crop_sowing, weather, market_price, other
+====================================================
+
+--- PADDY (Dhaan / धान) ---
+
+Q01|Dhaan mein stem borer ki pahchan kaise karein?|paddy|pest_disease
+Q02|Dhaan ki fasal mein pani ki kitni zarurat hoti hai?|paddy|irrigation
+Q03|Nayi dhaan ki prajaati ke liye beej ki maatra kya hai?|paddy|crop_sowing
+Q04|Dhaan mein khad dene ka sahi samay kab hai?|paddy|soil_fertilizer
+Q05|Dhaan ki katai se pehle kheit mein kya karna chahiye?|paddy|irrigation
+Q06|Brown planthopper se dhaan ki raksha kaise karein?|paddy|pest_disease
+Q07|Dhaan ki nursery kaise taiyar karein?|paddy|crop_sowing
+Q08|Blast disease dhaan ko kaise nuksaan pahunchati hai?|paddy|pest_disease
+Q09|Dhaan ki fasal mein nitraajan khaad kitna daalein?|paddy|soil_fertilizer
+Q10|Dhaan ka paani kab band karna chahiye?|paddy|irrigation
+Q11|Is saal dhaan ki baayi kab karna uchit rahega?|paddy|crop_sowing
+Q12|Dhaan ke khelon mein ghaas ka niyantran kaise karein?|paddy|pest_disease
+Q13|Dhaan ke beej ka shodehan kaise karein?|paddy|crop_sowing
+Q14|Bhubaneswar mein is saptah barish ki kya sambhavana hai?|paddy|weather
+Q15|Mandi mein dhaan ka bhav aaj kitna hai?|paddy|market_price
+
+--- TOMATO (Tamatar / टमाटर) ---
+
+Q16|Tamatar ke patte kyun murr rahe hain?|tomato|pest_disease
+Q17|Tamatar mein whitefly ka ilaj kya hai?|tomato|pest_disease
+Q18|Tamatar ki transplanting ke baad kitna paani dein?|tomato|irrigation
+Q19|Tamatar mein early blight kya hota hai?|tomato|pest_disease
+Q20|Tamatar ke liye konsi khaad sabse achi hai?|tomato|soil_fertilizer
+Q21|Tamatar ki paudh nursery mein kaise taiyaar karein?|tomato|crop_sowing
+Q22|Tamatar ka toodna kab shuru karein?|tomato|crop_sowing
+Q23|Tamatar mein aphids se bachav ke liye kya karein?|tomato|pest_disease
+Q24|Aaj barish hogi kya — kya tamatar mein spray karein?|tomato|weather
+Q25|Tamatar ka mandi bhav is hafte kaisa hai?|tomato|market_price
+
+--- ONION (Pyaz / प्याज) ---
+
+Q26|Pyaz ki paudh pallai kaisi banayein?|onion|crop_sowing
+Q27|Pyaz mein thrips ka niyantran kaise karein?|onion|pest_disease
+Q28|Pyaz ki khudai ke baad usey kaise sukhayein?|onion|crop_sowing
+Q29|Pyaz mein purple blotch bimari ke lakshan kya hain?|onion|pest_disease
+Q30|Pyaz ki fasal mein kitni baar sinchai karni chahiye?|onion|irrigation
+Q31|Pyaz ke liye kaun si prajaati Bhubaneswar mein achi hoti hai?|onion|crop_sowing
+Q32|Pyaz mein potash khaad kab aur kitna daalein?|onion|soil_fertilizer
+Q33|Pyaz mein paat galne ki bimari ka karan kya hai?|onion|pest_disease
+Q34|Is saal pyaz ka mandi bhav kaisa chal raha hai?|onion|market_price
+Q35|Pyaz ki fasal mein weed management kaise karein?|onion|other
+
+--- POTATO (Aloo / आलू) ---
+
+Q36|Aloo mein late blight ki pahchan kaise karein?|potato|pest_disease
+Q37|Aloo ki bawaai ke liye kheत ko kaise taiyaar karein?|potato|crop_sowing
+Q38|Aloo mein keede lagne par kaunsa spray karein?|potato|pest_disease
+Q39|Beej aloo ka chayan sahi tarike se kaise karein?|potato|crop_sowing
+Q40|Aloo ki fasal mein sinchai ka sahi samay kab hai?|potato|irrigation
+Q41|Aloo mein nitrogen khaad ki maatra kya honi chahiye?|potato|soil_fertilizer
+Q42|Aloo ki khudai kab karni chahiye?|potato|crop_sowing
+Q43|Aloo mein aphids aur virus se kaise bachein?|potato|pest_disease
+Q44|Aloo ka cold storage mein rakhne ka sahi tarika kya hai?|potato|other
+Q45|Is saal aloo ka bhav kya rahega?|potato|market_price
+
+--- GENERAL / WEATHER ---
+
+Q46|Bhubaneswar mein kal tez barish hogi kya?|general|weather
+Q47|Barish ke baad kheत mein kya karein?|general|weather
+Q48|Is mahine fasal mein kaunsa keetnashak safe hai?|general|pest_disease
+Q49|Mitti ki jaanch kaise karwayein?|general|soil_fertilizer
+Q50|Kisan credit card ke liye kaise apply karein?|general|other
+Q51|Organic kheti mein kaunsa keetnashak use karein?|general|pest_disease
+Q52|Sarkari MSP par fasal kaise bechein?|general|market_price
+Q53|KVK se kisan kaise sampark karein?|general|other
+Q54|Drip irrigation kis fasal ke liye achi hai?|general|irrigation
+Q55|Barish mein fasal beemar hone ka kya karan hai?|general|weather
+Q56|Khad dene ke baad barish aa jaaye toh kya karein?|general|soil_fertilizer
+Q57|Neem oil ka prayog keeton ke liye kab karein?|general|pest_disease
+Q58|Meri fasal ki photo dekh kar batao kya bimari hai?|general|pest_disease
+Q59|Agle hafte mausam kaisa rahega Bhubaneswar mein?|general|weather
+Q60|Fasal bima yojana mein apna naam kaise darj karein?|general|other
+
+====================================================
+Total: 60 questions | Target for Day 2 end: 60+
+Next: Add 30 more (Day 2) covering dialect variants
+and edge cases (wrong dose queries, storm advisories)
+====================================================

@@ -1,0 +1,1 @@
+On seen classes, RandomForest accuracy falls from 99.5% on the random split to 95.8% on the climate-cluster hold-out, a 3.7 percentage-point gap. However, 46.1% of held-out rows contain a class unseen during training, and conformal coverage drops from 99.5% on random data to 48.5% under climate shift despite a mean set size of 1.0.

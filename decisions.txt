@@ -1,0 +1,122 @@
+====================================================
+VOICE ADVISORY PROJECT — DAY 1 DECISIONS NOTE
+====================================================
+Date: 2026-10-02
+Team Member responsible: Member C
+
+----------------------------------------------------
+1. LANGUAGE
+----------------------------------------------------
+Language       : Hindi
+VA_LANG code   : hi
+Script         : Devanagari
+On Windows set : set VA_LANG=hi
+
+----------------------------------------------------
+2. CROPS (3-4 chosen)
+----------------------------------------------------
+1. Paddy  (dhan)   -- main kharif crop of Odisha
+2. Tomato (tamatar) -- major vegetable crop
+3. Onion  (pyaz)   -- important rabi cash crop
+4. Potato (aloo)   -- rabi season staple
+
+----------------------------------------------------
+3. DISTRICT / WEATHER LOCATION
+----------------------------------------------------
+District  : Bhubaneswar
+State     : Odisha
+Lat/Lon   : 20.2961 N, 85.8245 E
+API city  : Bhubaneswar (used in weather tool calls)
+
+----------------------------------------------------
+4. AGRONOMIST CONTACT
+----------------------------------------------------
+Name       : [To be filled -- contact local KVK or
+              OUAT (Odisha University of Agriculture
+              and Technology) extension officer]
+Role       : Independent evaluator -- will rate
+             system answers on a 1-5 scale for
+             accuracy, relevance and safety
+Contact    : [phone/email -- fill after confirming]
+
+Fallback   : ATMA (Agricultural Technology
+             Management Agency), Bhubaneswar district
+
+----------------------------------------------------
+5. JSON "CONTRACTS" -- MODULE INTERFACES
+----------------------------------------------------
+Each module emits and receives a defined JSON shape.
+These are the contracts the team must not break.
+
+5a. ASR -> (downstream)
+    Input : audio file path (wav, 16 kHz mono)
+    Output:
+    {
+      "text": "<transcript in Devanagari>",
+      "language": "hi",
+      "duration_s": 4.2,
+      "speaker_id": "spk01"
+    }
+
+5b. Intent Classifier -> (downstream)
+    Input : ASR "text" string
+    Output:
+    {
+      "intent": "pest_disease",
+      "crop": "tomato",
+      "entities": ["whitefly"],
+      "confidence": 0.91
+    }
+
+5c. Retriever (RAG) -> LLM
+    Input : intent + crop + entities + query text
+    Output:
+    {
+      "passages": [
+        {"id": "S001", "text": "...", "score": 0.92}
+      ],
+      "tool_facts": {
+        "weather": { "temp_c": 28, "rain_mm": 12 },
+        "market":  { "crop": "tomato", "price_per_kg": 18 }
+      }
+    }
+
+5d. LLM -> Trust Filter
+    Input : retriever output + prompt
+    Output:
+    {
+      "answer_text": "<Hindi answer>",
+      "sentences": ["sent1", "sent2"],
+      "sources": ["S001", "S003"]
+    }
+
+5e. Trust Filter -> TTS / UI
+    Input : LLM output
+    Output:
+    {
+      "final_answer": "<Hindi answer, possibly trimmed>",
+      "confidence": 0.95,
+      "escalate": false,
+      "faith_score": 0.99
+    }
+
+5f. TTS -> Audio output
+    Input : "final_answer" string
+    Output:
+    {
+      "audio_path": "output/answer_0001.wav",
+      "duration_s": 6.1
+    }
+
+----------------------------------------------------
+6. NOTES / OPEN ITEMS
+----------------------------------------------------
+- llama-cpp-python: install CPU-only version first;
+  use Colab/Kaggle on Day 4 for GPU fine-tuning.
+- ontology.json must be extended with Hindi/Devanagari
+  synonyms for all 4 crops and key pests.
+- KB entries should use Hindi text where possible,
+  or bilingual (Hindi + English) entries.
+- Whisper model: whisper-small supports Hindi (hi).
+  Fine-tune on local dialect recordings on Day 4.
+====================================================

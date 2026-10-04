@@ -1,0 +1,156 @@
+====================================================
+KNOWLEDGE BASE SOURCE LIST
+Voice Advisory System | Hindi Pilot
+Crops: Paddy, Tomato, Onion, Potato
+Region: Bhubaneswar, Odisha
+====================================================
+Format per entry:
+  ID       : source identifier (used in KB entries)
+  Name     : document/page title
+  Link     : URL
+  Licence  : content licence
+  Date     : date accessed or document date
+  Crops    : which crops it covers
+====================================================
+
+--- PADDY ---
+
+SRC-P01
+  Name    : Package of Practices for Paddy (Kharif)
+  Source  : OUAT (Odisha University of Agriculture &
+            Technology), Bhubaneswar
+  Link    : https://ouat.ac.in/packages-of-practices/
+  Licence : Government publication, public domain
+  Date    : 2024 (check latest edition)
+  Crops   : paddy
+
+SRC-P02
+  Name    : Integrated Pest Management — Paddy
+  Source  : National Centre for Integrated Pest
+            Management (NCIPM), ICAR
+  Link    : https://ncipm.icar.gov.in/ipm_packages.htm
+  Licence : ICAR government publication, public domain
+  Date    : 2023
+  Crops   : paddy
+
+SRC-P03
+  Name    : Kisan Call Centre Advisory — Paddy
+  Source  : KVK Bhubaneswar / ATMA Odisha
+  Link    : https://kvk.icar.gov.in/  (district KVK page)
+  Licence : Government advisory, public domain
+  Date    : 2025
+  Crops   : paddy
+
+--- TOMATO ---
+
+SRC-T01
+  Name    : Package of Practices for Tomato
+  Source  : OUAT, Bhubaneswar
+  Link    : https://ouat.ac.in/packages-of-practices/
+  Licence : Government publication, public domain
+  Date    : 2024
+  Crops   : tomato
+
+SRC-T02
+  Name    : Tomato IPM Guidelines
+  Source  : NCIPM, ICAR
+  Link    : https://ncipm.icar.gov.in/ipm_packages.htm
+  Licence : ICAR government publication, public domain
+  Date    : 2023
+  Crops   : tomato
+
+SRC-T03
+  Name    : Vegetable Cultivation in Odisha (Tomato
+            chapter), Directorate of Horticulture
+  Source  : Directorate of Horticulture, Govt of Odisha
+  Link    : https://horticulture.odisha.gov.in/
+  Licence : Government publication, public domain
+  Date    : 2024
+  Crops   : tomato
+
+--- ONION ---
+
+SRC-O01
+  Name    : Package of Practices for Onion
+  Source  : OUAT, Bhubaneswar
+  Link    : https://ouat.ac.in/packages-of-practices/
+  Licence : Government publication, public domain
+  Date    : 2024
+  Crops   : onion
+
+SRC-O02
+  Name    : Onion Production Guide
+  Source  : NHRDF (National Horticultural Research and
+            Development Foundation)
+  Link    : https://www.nhrdf.com/onion-production
+  Licence : Publicly available advisory
+  Date    : 2023
+  Crops   : onion
+
+SRC-O03
+  Name    : IPM for Onion and Garlic
+  Source  : NCIPM, ICAR
+  Link    : https://ncipm.icar.gov.in/ipm_packages.htm
+  Licence : ICAR government publication, public domain
+  Date    : 2023
+  Crops   : onion
+
+--- POTATO ---
+
+SRC-PT01
+  Name    : Package of Practices for Potato
+  Source  : OUAT, Bhubaneswar
+  Link    : https://ouat.ac.in/packages-of-practices/
+  Licence : Government publication, public domain
+  Date    : 2024
+  Crops   : potato
+
+SRC-PT02
+  Name    : Potato Late Blight Management
+  Source  : Central Potato Research Institute (CPRI),
+            ICAR, Shimla
+  Link    : https://cpri.icar.gov.in/
+  Licence : ICAR government publication, public domain
+  Date    : 2023
+  Crops   : potato
+
+SRC-PT03
+  Name    : Potato Production in Eastern India
+  Source  : ICAR-CPRI
+  Link    : https://cpri.icar.gov.in/publications
+  Licence : ICAR government publication, public domain
+  Date    : 2024
+  Crops   : potato
+
+--- WEATHER & MARKET ---
+
+SRC-W01
+  Name    : IMD Open Weather API — Bhubaneswar
+  Source  : India Meteorological Department
+  Link    : https://mausam.imd.gov.in/
+  Licence : Open government data
+  Date    : live
+  Crops   : general
+
+SRC-M01
+  Name    : Agmarknet Market Prices
+  Source  : Directorate of Marketing & Inspection,
+            Govt of India
+  Link    : https://agmarknet.gov.in/
+  Licence : Open government data
+  Date    : live
+  Crops   : general
+
+====================================================
+STATUS NOTES
+====================================================
+- All OUAT links need to be checked: navigate to
+  ouat.ac.in and download the PDF for each crop.
+- Verify that the NCIPM links resolve to crop-specific
+  IPM packages (the homepage may redirect).
+- For KVK Bhubaneswar: call +91-XXXXXXXXXX or visit
+  in person to get the latest district-specific PDFs.
+- All documents must be checked for licence before
+  use in the KB. Government publications (ICAR, OUAT,
+  Govt of Odisha) are generally in the public domain.
+====================================================

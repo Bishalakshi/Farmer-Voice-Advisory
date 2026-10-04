@@ -1,0 +1,23 @@
+torch
+transformers>=4.44
+peft
+accelerate
+datasets
+jiwer
+sentence-transformers
+rank_bm25
+rapidfuzz
+gradio
+requests
+numpy
+pandas
+scikit-learn
+soundfile
+librosa
+scipy
+psutil
+num2words
+sentencepiece
+pytest
+# LLM runtime (GPU build):  CMAKE_ARGS="-DGGML_CUDA=on" pip install llama-cpp-python
+# CPU-only build:           pip install llama-cpp-python

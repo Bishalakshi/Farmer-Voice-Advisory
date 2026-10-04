@@ -1,0 +1,147 @@
+====================================================
+VOICE RECORDING PROTOCOL
+Voice Advisory System — Hindi Pilot
+====================================================
+Version: 1.0   Date: 2026-10-02   Language: Hindi (hi)
+
+----------------------------------------------------
+PURPOSE
+----------------------------------------------------
+To collect diverse Hindi speech recordings from
+farmers and rural speakers in Odisha for training
+and evaluating the ASR (Automatic Speech Recognition)
+module of the Voice Advisory System.
+
+----------------------------------------------------
+SPEAKERS
+----------------------------------------------------
+Total required  : Minimum 8 speakers
+Dialect groups  : 2 groups
+  - dialectA : Bhojpuri-influenced Hindi (western Odisha /
+               migrant background)
+  - dialectB : Standard Hindi / Odia-accented Hindi
+               (Bhubaneswar region)
+
+Speaker codes   : S01, S02, S03, ... S08+
+  - dialectA speakers : S01, S02, S03, S04
+  - dialectB speakers : S05, S06, S07, S08
+
+Demographics to aim for (across all speakers):
+  - Gender   : at least 3 women
+  - Age range: 20-60 years
+  - Background: farmers, farm workers, homemakers
+
+----------------------------------------------------
+WHAT EACH SPEAKER READS/SAYS
+----------------------------------------------------
+Per session (per speaker), collect:
+  a) SCRIPTED (12-15 sentences from the prompt sheet)
+     - Read each sentence aloud naturally
+     - Pause 2 seconds between sentences
+     - Cover all 4 crops: paddy, tomato, onion, potato
+
+  b) FREE QUESTIONS (at least 3 spontaneous questions)
+     - Ask the speaker: "Imagine you are a farmer.
+       Ask the phone whatever question you have."
+     - Examples recorded (do NOT suggest these verbatim):
+         "Dhaan mein keede lag gaye hain, kya karein?"
+         "Aaj mausam kaisa rahega?"
+         "Tamatar ka bhav kya hai?"
+
+----------------------------------------------------
+RECORDING CONDITIONS
+----------------------------------------------------
+For EACH speaker, record TWICE:
+  1. Quiet environment  : indoors, no background noise
+  2. Noisy environment  : outdoors / near traffic / fan
+
+Both recordings of the same speaker get the same
+speaker code (S01, etc.) but the filename encodes
+session (see naming below).
+
+----------------------------------------------------
+EQUIPMENT & SETTINGS
+----------------------------------------------------
+- Device       : Android/iOS smartphone
+- App          : built-in Voice Recorder or RecForge II
+- Format       : WAV (preferred) or M4A/MP3 converted
+- Sample rate  : 44.1 kHz or 48 kHz minimum
+                 (will be downsampled to 16 kHz in pipeline)
+- Mic distance : 15-20 cm from speaker's mouth
+- Orientation  : hold phone in portrait mode
+
+----------------------------------------------------
+FILE NAMING CONVENTION
+----------------------------------------------------
+Format: rec_XXXX.wav   (zero-padded 4-digit sequence)
+
+Numbering plan:
+  rec_0001.wav ... rec_0015.wav  -> S01 quiet session
+  rec_0016.wav ... rec_0030.wav  -> S01 noisy session
+  rec_0031.wav ... rec_0045.wav  -> S02 quiet session
+  ... and so on
+
+Record each sentence as a SEPARATE FILE.
+Do NOT record the full session as one long file.
+
+----------------------------------------------------
+CSV LOG (fill data/recordings.csv after each session)
+----------------------------------------------------
+Columns:
+  filename  : e.g. rec_0001.wav
+  text      : exact Hindi transcript in Devanagari
+  speaker   : e.g. S01
+  dialect   : dialectA or dialectB
+  entities  : pipe-separated crop/pest names
+              e.g. paddy|stem_borer or tomato|whitefly
+
+----------------------------------------------------
+SENTENCE PROMPT SHEET (read to speakers)
+----------------------------------------------------
+(Number 1-15 — use subset for shorter sessions)
+
+Paddy (Dhaan):
+1. "Dhaan ki fasal mein stem borer ka prasar ho gaya hai."
+2. "Khaet mein paani ki maatra sahi rakhna bahut zaruri hai."
+3. "Dhaan ki katai se pehle ek hafte kheत ko sukha dena chahiye."
+4. "Nayi dhaan ki kisam ke liye seedbed mein beej ki maatra kitni hogi?"
+
+Tomato (Tamatar):
+5. "Tamatar ke patte neeche ki taraf murra rahe hain."
+6. "Whitefly ka prakop tamatar aur brinjal par zyada hota hai."
+7. "Subah jaldi ya shaam ko keetnashak ka chhidkaav karein."
+8. "Tamatar mein blight rog ke lakshan kya hain?"
+
+Onion (Pyaz):
+9. "Pyaz ki fasal mein thrips ke kaaran patte sookh rahe hain."
+10. "Pyaz ki khudai ke baad usey dhoop mein sukhana zaruri hai."
+11. "Is saal pyaz ka mandi mein bhav kitna chal raha hai?"
+
+Potato (Aloo):
+12. "Aloo mein late blight ek khatarnak bimari hai."
+13. "Aloo ki baai karte waqt kand ka aankh uppar rakhein."
+14. "Beej aloo ka selection sahi hona chahiye."
+
+General:
+15. "Bhubaneswar mein aaj barish hone ki sambhavana kitni hai?"
+
+----------------------------------------------------
+QUALITY CHECKS (before accepting a file)
+----------------------------------------------------
+- Playback file: voice is clear, no clipping
+- Duration: each file 3-15 seconds
+- No long silences (>3 s) at start or end
+- Re-record if speaker laughs mid-sentence or stops
+
+----------------------------------------------------
+DATA STORAGE
+----------------------------------------------------
+- Store WAV files in: recordings/  folder inside va/
+- Back up to a secure cloud folder (Google Drive /
+  OneDrive) immediately after each session
+- Do NOT share recordings beyond the project team
+  without written consent
+
+====================================================
+END OF RECORDING PROTOCOL
+====================================================

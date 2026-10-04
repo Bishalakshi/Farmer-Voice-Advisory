@@ -1,0 +1,1 @@
+The 33 manifest test WAVs are synthetic amplitude-modulated sine waves, not recorded speech, despite having Hindi reference transcripts. Whisper-small metrics and the entity-error list are reproducible diagnostics of these synthetic clips only and must not be treated as a valid speech-recognition baseline; rerun after replacing them with real test-speaker recordings.

@@ -1,0 +1,113 @@
+====================================================
+AUDIO RECORDING CONSENT FORM
+Voice Advisory System — Agricultural Pilot Study
+====================================================
+
+Date: _______________
+Location: _______________
+Recorder's name: _______________
+
+----------------------------------------------------
+WHY WE ARE RECORDING
+----------------------------------------------------
+We are a student/research team building a Voice
+Advisory System that helps farmers get agricultural
+information in Hindi using their voice.
+
+To make the system understand natural speech, we need
+to record Hindi-speaking volunteers reading sentences
+and asking farming questions. Your voice recording
+will be used to:
+
+  1. Train the speech recognition model to better
+     understand Hindi as spoken in Odisha.
+  2. Test whether the system gives correct and safe
+     farming advice.
+  3. Improve the system over time.
+
+This is a research / educational project. The system
+is NOT yet available commercially.
+
+----------------------------------------------------
+WHAT WILL BE RECORDED
+----------------------------------------------------
+- Your voice (audio only — no video)
+- Duration per session: approximately 15-30 minutes
+- Contents: scripted agricultural sentences + your
+  own freely asked farming questions
+
+No personally identifying information (face, name,
+ID) will be stored along with the audio files.
+Your recording will be stored using only a speaker
+code (e.g., S01) and cannot be traced back to you
+by anyone outside the project team.
+
+----------------------------------------------------
+WHERE YOUR AUDIO IS STORED
+----------------------------------------------------
+- On the project team's computer (password protected)
+- Backed up to a private, password-protected cloud
+  folder (Google Drive / OneDrive)
+- Access is limited strictly to the project team
+- Audio files are NOT posted on the internet or
+  shared with any third party
+
+Retention period: Audio will be deleted or fully
+anonymised within 12 months of the project end,
+or earlier if you request deletion.
+
+----------------------------------------------------
+YOUR RIGHTS
+----------------------------------------------------
+Your participation is COMPLETELY VOLUNTARY.
+
+You have the right to:
+  - Refuse to participate at any time with no penalty
+  - Stop the recording at any point during the session
+  - Ask for your recordings to be DELETED at any time
+    by contacting the team (see contact below)
+  - Ask what will be done with your recording
+
+To request deletion or ask questions, contact:
+  Name   : ___________________________
+  Phone  : ___________________________
+  Email  : ___________________________
+
+----------------------------------------------------
+CONSENT DECLARATION
+----------------------------------------------------
+I have read and understood the above information
+(or it has been explained to me in a language I
+understand). I agree to participate in the voice
+recording session for the Voice Advisory research
+project.
+
+I understand that:
+  [X] My audio recording will be used for training
+      and testing the agricultural voice system.
+  [X] My data will be stored securely and not shared
+      publicly.
+  [X] I can ask for my recording to be deleted at
+      any time.
+  [X] My participation is voluntary and I can stop
+      at any time.
+
+Speaker Code (filled by team): _______________
+
+Participant Name (print): _____________________
+
+Participant Signature   : _____________________
+
+Date                    : _____________________
+
+----------------------------------------------------
+If participant CANNOT sign (thumbprint consent):
+----------------------------------------------------
+Witness Name      : _____________________
+Witness Signature : _____________________
+Date              : _____________________
+
+====================================================
+(Retain this form securely — do not attach to
+ audio files or upload to cloud)
+====================================================
