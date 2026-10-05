@@ -120,3 +120,5 @@ These are the contracts the team must not break.
 - Whisper model: whisper-small supports Hindi (hi).
   Fine-tune on local dialect recordings on Day 4.
 ====================================================
+
+ASR data (redone): original freeze used synthetic tones with shared train/test text. New data: MMS-TTS synthetic farm sentences (text-disjoint, 6 acoustic variants) + FLEURS Hindi (CC-BY-4.0). No live speakers. Synthetic speech is single-voice, so results do not show dialect or farmer generalisation.

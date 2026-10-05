@@ -1,0 +1,3 @@
+system,dialect,n,WER,CER,EER
+out_base_fleurs.csv,ALL,100,0.6250478743776331,0.34840769172303715,
+out_base_fleurs.csv,fleurs_real,100,0.6250478743776331,0.34840769172303715,
