@@ -10,3 +10,8 @@ __pycache__/
    models/
    out_tts/
    sheets/
+
+recordings/
+models/
+out_tts/
+sheets/
