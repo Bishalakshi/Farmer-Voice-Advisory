@@ -6,3 +6,7 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
+   recordings/
+   models/
+   out_tts/
+   sheets/
