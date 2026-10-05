@@ -1,0 +1,168 @@
+﻿filename,text,speaker,dialect,entities,split,condition
+rec_0001.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S01,dialectA,paddy,train,quiet
+rec_0002.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S01,dialectA,paddy,train,quiet
+rec_0003.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S01,dialectA,tomato,train,quiet
+rec_0004.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S01,dialectA,onion|thrips,train,quiet
+rec_0005.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S01,dialectA,onion,train,quiet
+rec_0006.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S01,dialectA,onion,train,quiet
+rec_0007.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S01,dialectA,potato,train,quiet
+rec_0008.wav,बीज आलू का चुनाव सही होना चाहिए।,S01,dialectA,potato,train,quiet
+rec_0009.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S01,dialectA,,train,quiet
+rec_0010.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S01,dialectA,tomato|fruit_borer,train,quiet
+rec_0011.wav,आलू की फसल में पहली सिंचाई कब करें?,S01,dialectA,potato,train,quiet
+rec_0012.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S01,dialectA,,train,quiet
+rec_0013.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S01,dialectA,,train,quiet
+rec_0014.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S01,dialectA,paddy,train,quiet
+rec_0015.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S01,dialectA,paddy|stem_borer,train,quiet
+rec_0016.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S01,dialectA,paddy,train,quiet
+rec_0017.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S01,dialectA,paddy,train,noisy
+rec_0018.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S01,dialectA,paddy,train,noisy
+rec_0019.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S01,dialectA,tomato,train,noisy
+rec_0020.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S01,dialectA,onion|thrips,train,noisy
+rec_0021.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S02,dialectA,paddy,train,quiet
+rec_0022.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S02,dialectA,paddy,train,quiet
+rec_0023.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S02,dialectA,tomato,train,quiet
+rec_0024.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S02,dialectA,onion|thrips,train,quiet
+rec_0025.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S02,dialectA,onion,train,quiet
+rec_0026.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S02,dialectA,onion,train,quiet
+rec_0027.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S02,dialectA,potato,train,quiet
+rec_0028.wav,बीज आलू का चुनाव सही होना चाहिए।,S02,dialectA,potato,train,quiet
+rec_0029.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S02,dialectA,,train,quiet
+rec_0030.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S02,dialectA,tomato|fruit_borer,train,quiet
+rec_0031.wav,आलू की फसल में पहली सिंचाई कब करें?,S02,dialectA,potato,train,quiet
+rec_0032.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S02,dialectA,,train,quiet
+rec_0033.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S02,dialectA,,train,quiet
+rec_0034.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S02,dialectA,paddy,train,quiet
+rec_0035.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S02,dialectA,paddy|stem_borer,train,quiet
+rec_0036.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S02,dialectA,paddy,train,quiet
+rec_0037.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S02,dialectA,paddy,train,noisy
+rec_0038.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S02,dialectA,paddy,train,noisy
+rec_0039.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S02,dialectA,tomato,train,noisy
+rec_0040.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S02,dialectA,onion|thrips,train,noisy
+rec_0041.wav,धान में खाद देने का सही समय कब है?,S03,dialectA,paddy,test,quiet
+rec_0042.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S03,dialectA,tomato|whitefly|brinjal,test,quiet
+rec_0043.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S03,dialectA,onion|purple_blotch,test,quiet
+rec_0044.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,S03,dialectA,potato|late_blight,test,quiet
+rec_0045.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,S03,dialectA,tomato|whitefly,test,quiet
+rec_0046.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,S03,dialectA,tomato|early_blight,test,quiet
+rec_0047.wav,धान में खाद देने का सही समय कब है?,S03,dialectA,paddy,test,noisy
+rec_0048.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S03,dialectA,tomato|whitefly|brinjal,test,noisy
+rec_0049.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S03,dialectA,onion|purple_blotch,test,noisy
+rec_0050.wav,धान में खाद देने का सही समय कब है?,S04,dialectA,paddy,test,quiet
+rec_0051.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S04,dialectA,tomato|whitefly|brinjal,test,quiet
+rec_0052.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S04,dialectA,onion|purple_blotch,test,quiet
+rec_0053.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,S04,dialectA,potato|late_blight,test,quiet
+rec_0054.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,S04,dialectA,tomato|whitefly,test,quiet
+rec_0055.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,S04,dialectA,tomato|early_blight,test,quiet
+rec_0056.wav,धान में खाद देने का सही समय कब है?,S04,dialectA,paddy,test,noisy
+rec_0057.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S04,dialectA,tomato|whitefly|brinjal,test,noisy
+rec_0058.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S04,dialectA,onion|purple_blotch,test,noisy
+rec_0059.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S05,dialectA,paddy,train,quiet
+rec_0060.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S05,dialectA,paddy,train,quiet
+rec_0061.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S05,dialectA,tomato,train,quiet
+rec_0062.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S05,dialectA,onion|thrips,train,quiet
+rec_0063.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S05,dialectA,onion,train,quiet
+rec_0064.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S05,dialectA,onion,train,quiet
+rec_0065.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S05,dialectA,potato,train,quiet
+rec_0066.wav,बीज आलू का चुनाव सही होना चाहिए।,S05,dialectA,potato,train,quiet
+rec_0067.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S05,dialectA,,train,quiet
+rec_0068.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S05,dialectA,tomato|fruit_borer,train,quiet
+rec_0069.wav,आलू की फसल में पहली सिंचाई कब करें?,S05,dialectA,potato,train,quiet
+rec_0070.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S05,dialectA,,train,quiet
+rec_0071.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S05,dialectA,,train,quiet
+rec_0072.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S05,dialectA,paddy,train,quiet
+rec_0073.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S05,dialectA,paddy|stem_borer,train,quiet
+rec_0074.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S05,dialectA,paddy,train,quiet
+rec_0075.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S05,dialectA,paddy,train,noisy
+rec_0076.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S05,dialectA,paddy,train,noisy
+rec_0077.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S05,dialectA,tomato,train,noisy
+rec_0078.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S05,dialectA,onion|thrips,train,noisy
+rec_0079.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S06,dialectB,paddy,train,quiet
+rec_0080.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S06,dialectB,paddy,train,quiet
+rec_0081.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S06,dialectB,tomato,train,quiet
+rec_0082.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S06,dialectB,onion|thrips,train,quiet
+rec_0083.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S06,dialectB,onion,train,quiet
+rec_0084.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S06,dialectB,onion,train,quiet
+rec_0085.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S06,dialectB,potato,train,quiet
+rec_0086.wav,बीज आलू का चुनाव सही होना चाहिए।,S06,dialectB,potato,train,quiet
+rec_0087.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S06,dialectB,,train,quiet
+rec_0088.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S06,dialectB,tomato|fruit_borer,train,quiet
+rec_0089.wav,आलू की फसल में पहली सिंचाई कब करें?,S06,dialectB,potato,train,quiet
+rec_0090.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S06,dialectB,,train,quiet
+rec_0091.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S06,dialectB,,train,quiet
+rec_0092.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S06,dialectB,paddy,train,quiet
+rec_0093.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S06,dialectB,paddy|stem_borer,train,quiet
+rec_0094.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S06,dialectB,paddy,train,quiet
+rec_0095.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S06,dialectB,paddy,train,noisy
+rec_0096.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S06,dialectB,paddy,train,noisy
+rec_0097.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S06,dialectB,tomato,train,noisy
+rec_0098.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S06,dialectB,onion|thrips,train,noisy
+rec_0099.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S07,dialectB,paddy,train,quiet
+rec_0100.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S07,dialectB,paddy,train,quiet
+rec_0101.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S07,dialectB,tomato,train,quiet
+rec_0102.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S07,dialectB,onion|thrips,train,quiet
+rec_0103.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S07,dialectB,onion,train,quiet
+rec_0104.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S07,dialectB,onion,train,quiet
+rec_0105.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S07,dialectB,potato,train,quiet
+rec_0106.wav,बीज आलू का चुनाव सही होना चाहिए।,S07,dialectB,potato,train,quiet
+rec_0107.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S07,dialectB,,train,quiet
+rec_0108.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S07,dialectB,tomato|fruit_borer,train,quiet
+rec_0109.wav,आलू की फसल में पहली सिंचाई कब करें?,S07,dialectB,potato,train,quiet
+rec_0110.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S07,dialectB,,train,quiet
+rec_0111.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S07,dialectB,,train,quiet
+rec_0112.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S07,dialectB,paddy,train,quiet
+rec_0113.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S07,dialectB,paddy|stem_borer,train,quiet
+rec_0114.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S07,dialectB,paddy,train,quiet
+rec_0115.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S07,dialectB,paddy,train,noisy
+rec_0116.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S07,dialectB,paddy,train,noisy
+rec_0117.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S07,dialectB,tomato,train,noisy
+rec_0118.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S07,dialectB,onion|thrips,train,noisy
+rec_0119.wav,धान में खाद देने का सही समय कब है?,S08,dialectB,paddy,test,quiet
+rec_0120.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S08,dialectB,tomato|whitefly|brinjal,test,quiet
+rec_0121.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S08,dialectB,onion|purple_blotch,test,quiet
+rec_0122.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,S08,dialectB,potato|late_blight,test,quiet
+rec_0123.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,S08,dialectB,tomato|whitefly,test,quiet
+rec_0124.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,S08,dialectB,tomato|early_blight,test,quiet
+rec_0125.wav,धान में खाद देने का सही समय कब है?,S08,dialectB,paddy,test,noisy
+rec_0126.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,S08,dialectB,tomato|whitefly|brinjal,test,noisy
+rec_0127.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,S08,dialectB,onion|purple_blotch,test,noisy
+rec_0128.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S09,dialectB,paddy,train,quiet
+rec_0129.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S09,dialectB,paddy,train,quiet
+rec_0130.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S09,dialectB,tomato,train,quiet
+rec_0131.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S09,dialectB,onion|thrips,train,quiet
+rec_0132.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S09,dialectB,onion,train,quiet
+rec_0133.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S09,dialectB,onion,train,quiet
+rec_0134.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S09,dialectB,potato,train,quiet
+rec_0135.wav,बीज आलू का चुनाव सही होना चाहिए।,S09,dialectB,potato,train,quiet
+rec_0136.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S09,dialectB,,train,quiet
+rec_0137.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S09,dialectB,tomato|fruit_borer,train,quiet
+rec_0138.wav,आलू की फसल में पहली सिंचाई कब करें?,S09,dialectB,potato,train,quiet
+rec_0139.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S09,dialectB,,train,quiet
+rec_0140.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S09,dialectB,,train,quiet
+rec_0141.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S09,dialectB,paddy,train,quiet
+rec_0142.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S09,dialectB,paddy|stem_borer,train,quiet
+rec_0143.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S09,dialectB,paddy,train,quiet
+rec_0144.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S09,dialectB,paddy,train,noisy
+rec_0145.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S09,dialectB,paddy,train,noisy
+rec_0146.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S09,dialectB,tomato,train,noisy
+rec_0147.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S09,dialectB,onion|thrips,train,noisy
+rec_0148.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S10,dialectB,paddy,train,quiet
+rec_0149.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S10,dialectB,paddy,train,quiet
+rec_0150.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S10,dialectB,tomato,train,quiet
+rec_0151.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S10,dialectB,onion|thrips,train,quiet
+rec_0152.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,S10,dialectB,onion,train,quiet
+rec_0153.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,S10,dialectB,onion,train,quiet
+rec_0154.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,S10,dialectB,potato,train,quiet
+rec_0155.wav,बीज आलू का चुनाव सही होना चाहिए।,S10,dialectB,potato,train,quiet
+rec_0156.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,S10,dialectB,,train,quiet
+rec_0157.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,S10,dialectB,tomato|fruit_borer,train,quiet
+rec_0158.wav,आलू की फसल में पहली सिंचाई कब करें?,S10,dialectB,potato,train,quiet
+rec_0159.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,S10,dialectB,,train,quiet
+rec_0160.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,S10,dialectB,,train,quiet
+rec_0161.wav,धान की फसल में यूरिया कितना डालना चाहिए?,S10,dialectB,paddy,train,quiet
+rec_0162.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,S10,dialectB,paddy|stem_borer,train,quiet
+rec_0163.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,S10,dialectB,paddy,train,quiet
+rec_0164.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,S10,dialectB,paddy,train,noisy
+rec_0165.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,S10,dialectB,paddy,train,noisy
+rec_0166.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,S10,dialectB,tomato,train,noisy
+rec_0167.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,S10,dialectB,onion|thrips,train,noisy
