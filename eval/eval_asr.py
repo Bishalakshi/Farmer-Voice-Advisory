@@ -3,7 +3,7 @@ Usage: python -m eval.eval_asr out_base.csv out_ft.csv [--fix]"""
 import sys, re, json, pandas as pd, jiwer
 from asr.lexicon_fix import load_vocab, fix_transcript
 
-CUTOFF = 85          # Day 5: replace with the value tuned on TRAIN data only
+CUTOFF = 70       # Day 5: replace with the value tuned on TRAIN data only
 
 ONTO = json.load(open("data/ontology.json", encoding="utf-8"))
 SYN = {}

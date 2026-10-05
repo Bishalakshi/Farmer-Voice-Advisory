@@ -1,0 +1,97 @@
+﻿filename,audio_path,text,speaker,dialect,entities,split,condition,hyp
+rec_0001.wav,recordings/wav16k/rec_0001.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_clean,paddy,train,clean,दान की कताई से पहले एक रस्ते खेट को सुखा देना चाहीए.
+rec_0002.wav,recordings/wav16k/rec_0002.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_noise10,paddy,train,noise10,जान की कताई से पहले एक रहसे खेट को सुखा देना चाही है
+rec_0003.wav,recordings/wav16k/rec_0003.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_noise5,paddy,train,noise5,भान की कताई से पहले एक रफे खेथ को सुखा देना चाही है
+rec_0004.wav,recordings/wav16k/rec_0004.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_phone8k,paddy,train,phone8k,दान की कताई से पहले एक रस्ते खेट को सुखा देना चाहीए
+rec_0005.wav,recordings/wav16k/rec_0005.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_slow,paddy,train,slow,दान की कताई से पहले एक रस्ते खेट को सुखा देना चाहीए
+rec_0006.wav,recordings/wav16k/rec_0006.wav,धान की कटाई से पहले एक हफ्ते खेत को सुखा देना चाहिए।,mms_hi,synth_fast,paddy,train,fast,दान की कताई से पहले एक रस्ते खेट को सुखा देना चाहीए.
+rec_0007.wav,recordings/wav16k/rec_0007.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_clean,paddy,train,clean,नेदहान की किसम किलिए नरसरी में भीज की मात्रा कितनी होगी
+rec_0008.wav,recordings/wav16k/rec_0008.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_noise10,paddy,train,noise10,लेदान की किसम किलिए नर्सरी में भीज की मात्रा कितमी होगी
+rec_0009.wav,recordings/wav16k/rec_0009.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_noise5,paddy,train,noise5,लेदान की किसन के लिए नर्शरी में भीज की मात्रा कितनी हो गी
+rec_0010.wav,recordings/wav16k/rec_0010.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_phone8k,paddy,train,phone8k,नेदहान की किसम के लिए नरसरी में भीज की मात्रा कितनी होगी
+rec_0011.wav,recordings/wav16k/rec_0011.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_slow,paddy,train,slow,नेदहान की किसम किलिए नरसरी में भीज की मात्रा कितनी होगी
+rec_0012.wav,recordings/wav16k/rec_0012.wav,नई धान की किस्म के लिए नर्सरी में बीज की मात्रा कितनी होगी?,mms_hi,synth_fast,paddy,train,fast,नेदान की किसम किलिए नरसरी में भीज की मात्रा कितनी होगी
+rec_0013.wav,recordings/wav16k/rec_0013.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_clean,tomato,train,clean,सुमा जल्दी या शाम को कित नाशका चिरकाव करें
+rec_0014.wav,recordings/wav16k/rec_0014.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_noise10,tomato,train,noise10,सुमा जल्डी या शाम्को की नाशका छिरकाव करें
+rec_0015.wav,recordings/wav16k/rec_0015.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_noise5,tomato,train,noise5,तुमा जल्दी या साम को की पनाशका दिरका करें
+rec_0016.wav,recordings/wav16k/rec_0016.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_phone8k,tomato,train,phone8k,सुमा जल्दी या शाम को कित नाशका चिरकाव करें
+rec_0017.wav,recordings/wav16k/rec_0017.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_slow,tomato,train,slow,सुमा जल्दि या शाम को कित नाशका चिरकाव करें
+rec_0018.wav,recordings/wav16k/rec_0018.wav,सुबह जल्दी या शाम को कीटनाशक का छिड़काव करें।,mms_hi,synth_fast,tomato,train,fast,सुमा जल्दी या शाम को कितनाशका चिरकाव करें
+rec_0019.wav,recordings/wav16k/rec_0019.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_clean,onion|thrips,train,clean,प्याज की फ़सल में त्रिब्स के करन पत्ते चु कहे हैं
+rec_0020.wav,recordings/wav16k/rec_0020.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_noise10,onion|thrips,train,noise10,प्याज की फतल में फ्रिप्त करन पते च्वू के हैं
+rec_0021.wav,recordings/wav16k/rec_0021.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_noise5,onion|thrips,train,noise5,प्याज की पषल में फ्रिप्त करन पट्ये सुग गये हैं
+rec_0022.wav,recordings/wav16k/rec_0022.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_phone8k,onion|thrips,train,phone8k,प्याज की सस्वल में प्ष्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्
+rec_0023.wav,recordings/wav16k/rec_0023.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_slow,onion|thrips,train,slow,प्याज की फसल में प्ट्रिप्स के करन पत्ते चु कहे हैं
+rec_0024.wav,recordings/wav16k/rec_0024.wav,प्याज की फसल में थ्रिप्स के कारण पत्ते सूख रहे हैं।,mms_hi,synth_fast,onion|thrips,train,fast,प्याज की फसल में फ्त्रिब्स के करन पत्ते चू कहे हैं
+rec_0025.wav,recordings/wav16k/rec_0025.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_clean,onion,train,clean,याज की खुदाई के बाद उसे दूप में सुकाना जरूई है
+rec_0026.wav,recordings/wav16k/rec_0026.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_noise10,onion,train,noise10,याज की खुदाई के बाद उसे दूप में सुखाना जरूई है
+rec_0027.wav,recordings/wav16k/rec_0027.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_noise5,onion,train,noise5,याज की फुडाई के बाद उसे दूप में सुखाना गरूई है
+rec_0028.wav,recordings/wav16k/rec_0028.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_phone8k,onion,train,phone8k,याज की खुदाई के बाद उसे दूप में सुकाना जरूई है.
+rec_0029.wav,recordings/wav16k/rec_0029.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_slow,onion,train,slow,याज की खुदाई के बाद उसे दूप में सुकाना जरूई है
+rec_0030.wav,recordings/wav16k/rec_0030.wav,प्याज की खुदाई के बाद उसे धूप में सुखाना जरूरी है।,mms_hi,synth_fast,onion,train,fast,याज की खुदाई के बाद उसे दूप में सुकाना जरूई है.
+rec_0031.wav,recordings/wav16k/rec_0031.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_clean,onion,train,clean,इस याल प्याज का मंदी में बहाँ कितना चल रहा है
+rec_0032.wav,recordings/wav16k/rec_0032.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_noise10,onion,train,noise10,इस ताल प्याज का मंदी में बहाँ कितना चल रहा है
+rec_0033.wav,recordings/wav16k/rec_0033.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_noise5,onion,train,noise5,तिस्थाल प्याज का मन्दी में भाँ कितना चल रहा है
+rec_0034.wav,recordings/wav16k/rec_0034.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_phone8k,onion,train,phone8k,इस याल प्याज का मन्दी में बहाँ कितना चल रहा है
+rec_0035.wav,recordings/wav16k/rec_0035.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_slow,onion,train,slow,इस याल प्याज का मन्दी में बहुग कितना चल रहा है
+rec_0036.wav,recordings/wav16k/rec_0036.wav,इस साल प्याज का मंडी में भाव कितना चल रहा है?,mms_hi,synth_fast,onion,train,fast,इसाल प्याज का मंदी में बहाँ कितना चल रहा है
+rec_0037.wav,recordings/wav16k/rec_0037.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_clean,potato,train,clean,आलो की बवाई करते वद कंद की आमक उपर रख हैं.
+rec_0038.wav,recordings/wav16k/rec_0038.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_noise10,potato,train,noise10,आलो की बवाई करते बखंख की आम्ध उपर रखें
+rec_0039.wav,recordings/wav16k/rec_0039.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_noise5,potato,train,noise5,आलुकी बुई करते बाद कंख्षी आम उपर रख्फें
+rec_0040.wav,recordings/wav16k/rec_0040.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_phone8k,potato,train,phone8k,आलो की बवाई करते वद कंद की आमक उपर रख हैं
+rec_0041.wav,recordings/wav16k/rec_0041.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_slow,potato,train,slow,आलो की बवाई करते वद कंद की आमक उपर रख हैं
+rec_0042.wav,recordings/wav16k/rec_0042.wav,आलू की बुवाई करते वक्त कंद की आंख ऊपर रखें।,mms_hi,synth_fast,potato,train,fast,आलो की बवाई करते वप कंद की आमक उपर रख हैं
+rec_0043.wav,recordings/wav16k/rec_0043.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_clean,potato,train,clean,बी जालुका चुन्नाव से ही हूना चाहीए.
+rec_0044.wav,recordings/wav16k/rec_0044.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_noise10,potato,train,noise10,भी जालो का चुनाव से ही हूना चाही है
+rec_0045.wav,recordings/wav16k/rec_0045.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_noise5,potato,train,noise5,भी जालोका कि नाव से ही नाचाईई
+rec_0046.wav,recordings/wav16k/rec_0046.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_phone8k,potato,train,phone8k,बी जालुका चुन्नाव से ही हूना चाहीए
+rec_0047.wav,recordings/wav16k/rec_0047.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_slow,potato,train,slow,भी जालुका चुन्नाव से ही हूना चाहीए.
+rec_0048.wav,recordings/wav16k/rec_0048.wav,बीज आलू का चुनाव सही होना चाहिए।,mms_hi,synth_fast,potato,train,fast,बी जालो का चुन्नाव से ही हूना चाहीए
+rec_0049.wav,recordings/wav16k/rec_0049.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_clean,,train,clean,भोनेशवर में आज बारिश होने की समहवना कितनी है
+rec_0050.wav,recordings/wav16k/rec_0050.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_noise10,,train,noise10,भोनेशवर में आज भारिश होने के समहवना कितनी है
+rec_0051.wav,recordings/wav16k/rec_0051.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_noise5,,train,noise5,भूनेशवरने आज भारिश भूने के समहवना कितनी है
+rec_0052.wav,recordings/wav16k/rec_0052.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_phone8k,,train,phone8k,भोनेशवर में आज बारिश होने के समहवना कितनी है
+rec_0053.wav,recordings/wav16k/rec_0053.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_slow,,train,slow,भोनेशवर में आज बारिश होने कि समहवना कितनी है
+rec_0054.wav,recordings/wav16k/rec_0054.wav,भुवनेश्वर में आज बारिश होने की संभावना कितनी है?,mms_hi,synth_fast,,train,fast,भोनेशवर में आज भारिश होने के समहवना कितनी है
+rec_0055.wav,recordings/wav16k/rec_0055.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_clean,tomato|fruit_borer,train,clean,गमातर मेखल चे तक किया लक्या है क्या करें?
+rec_0056.wav,recordings/wav16k/rec_0056.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_noise10,tomato|fruit_borer,train,noise10,तमाटर मेफल खेद़ ख्यालके है क्या करें?
+rec_0057.wav,recordings/wav16k/rec_0057.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_noise5,tomato|fruit_borer,train,noise5,अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर अगर
+rec_0058.wav,recordings/wav16k/rec_0058.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_phone8k,tomato|fruit_borer,train,phone8k,दुमातर मेफल चे तब किया लगे है क्या करें?
+rec_0059.wav,recordings/wav16k/rec_0059.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_slow,tomato|fruit_borer,train,slow,दुमातर मेखल चेदक की आलते है क्या करे?
+rec_0060.wav,recordings/wav16k/rec_0060.wav,टमाटर में फल छेदक कीड़ा लग गया है क्या करें?,mms_hi,synth_fast,tomato|fruit_borer,train,fast,ब्र्माटर मेखल चेदख क्या लगते है क्या करें?
+rec_0061.wav,recordings/wav16k/rec_0061.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_clean,potato,train,clean,आलु की फसर में तहली सी चाए कब करें?
+rec_0062.wav,recordings/wav16k/rec_0062.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_noise10,potato,train,noise10,आलु की पसर में तहनी सीचाल कब करें
+rec_0063.wav,recordings/wav16k/rec_0063.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_noise5,potato,train,noise5,आलु की पसर में तहली सिच्छाल कब करें?
+rec_0064.wav,recordings/wav16k/rec_0064.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_phone8k,potato,train,phone8k,आलु की फसर में तहली सी चाए कब करें?
+rec_0065.wav,recordings/wav16k/rec_0065.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_slow,potato,train,slow,आलु की फसर में तहली सी चाइ कब करें?
+rec_0066.wav,recordings/wav16k/rec_0066.wav,आलू की फसल में पहली सिंचाई कब करें?,mms_hi,synth_fast,potato,train,fast,आलो की फसर में तहली सी चाए कब करें
+rec_0067.wav,recordings/wav16k/rec_0067.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_clean,,train,clean,नीन के तेल का चिडकाव की समें करना चाही
+rec_0068.wav,recordings/wav16k/rec_0068.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_noise10,,train,noise10,नींके तेल का छिरकाव कि समें करना चाही
+rec_0069.wav,recordings/wav16k/rec_0069.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_noise5,,train,noise5,लिंके तेल का खिरकाव की समें करना चाही
+rec_0070.wav,recordings/wav16k/rec_0070.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_phone8k,,train,phone8k,नीन के तेल का चिडकाव की समें करना चाही
+rec_0071.wav,recordings/wav16k/rec_0071.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_slow,,train,slow,नीन के तेल का चिडकाव की समें करना चाही.
+rec_0072.wav,recordings/wav16k/rec_0072.wav,नीम के तेल का छिड़काव किस समय करना चाहिए?,mms_hi,synth_fast,,train,fast,नीन के तेल का चिडकाव की समें करना चाही
+rec_0073.wav,recordings/wav16k/rec_0073.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_clean,,train,clean,मिट्तिकी जाज करवाने के लिए नमूना कैसे लें?
+rec_0074.wav,recordings/wav16k/rec_0074.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_noise10,,train,noise10,मिट्तिकी जाज करवाने के लिए नमूना कैसे लें?
+rec_0075.wav,recordings/wav16k/rec_0075.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_noise5,,train,noise5,मिज्टीकी जाज करवाने के लिए नम्मुना कैसे ले?
+rec_0076.wav,recordings/wav16k/rec_0076.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_phone8k,,train,phone8k,मिट्तिकी जाज करवाने के लिए नमूना कैसे लें?
+rec_0077.wav,recordings/wav16k/rec_0077.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_slow,,train,slow,मिट्तिकी जाज करवाने के लिए नमूना कैसे लें?
+rec_0078.wav,recordings/wav16k/rec_0078.wav,मिट्टी की जांच करवाने के लिए नमूना कैसे लें?,mms_hi,synth_fast,,train,fast,मिट्तिकी जाज करवाने के लिए नमूना कैसे लें?
+rec_0079.wav,recordings/wav16k/rec_0079.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_clean,paddy,train,clean,वाहन्किर फसल में यूरिया कितना डालना चाहिये
+rec_0080.wav,recordings/wav16k/rec_0080.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_noise10,paddy,train,noise10,बाहन की न ख़कल में यूर्या कितना डालना चाहिये
+rec_0081.wav,recordings/wav16k/rec_0081.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_noise5,paddy,train,noise5,दान्किम खषल में योर्या कितना डाल्मा चाह्ये
+rec_0082.wav,recordings/wav16k/rec_0082.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_phone8k,paddy,train,phone8k,वाहन की न फसल में यूरिया कितना डालना चाहीए
+rec_0083.wav,recordings/wav16k/rec_0083.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_slow,paddy,train,slow,वाहनकिर फसल में यूरिया कितना डालना चाहीए.
+rec_0084.wav,recordings/wav16k/rec_0084.wav,धान की फसल में यूरिया कितना डालना चाहिए?,mms_hi,synth_fast,paddy,train,fast,वाहन्किर फसल में यूरिया कितना डालना चाहिये
+rec_0085.wav,recordings/wav16k/rec_0085.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_clean,paddy|stem_borer,train,clean,दान की तफसल में तनाचेदक का प्रसार हो गया है
+rec_0086.wav,recordings/wav16k/rec_0086.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_noise10,paddy|stem_borer,train,noise10,जान की तश्ल में तना चेदग का प्रसार हुगया है
+rec_0087.wav,recordings/wav16k/rec_0087.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_noise5,paddy|stem_borer,train,noise5,जान की फसल में कना चेड़़का प्रषार हुगया है
+rec_0088.wav,recordings/wav16k/rec_0088.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_phone8k,paddy|stem_borer,train,phone8k,दान की फसल में तनाचेदद का प्रसार हो गया है
+rec_0089.wav,recordings/wav16k/rec_0089.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_slow,paddy|stem_borer,train,slow,दान की तस्टल में तनाचेदक का प्रसार हुगया है
+rec_0090.wav,recordings/wav16k/rec_0090.wav,धान की फसल में तना छेदक का प्रसार हो गया है।,mms_hi,synth_fast,paddy|stem_borer,train,fast,दान की तफसल में तनाच्यदक का प्रसार हो गया है
+rec_0091.wav,recordings/wav16k/rec_0091.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_clean,paddy,train,clean,खेट में पानिकी मात्रा सही रक्ना बहुत ज़ोरी है
+rec_0092.wav,recordings/wav16k/rec_0092.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_noise10,paddy,train,noise10,खेट में पानिकी मात्रास तहीरखना बहुत ज़ोरी है
+rec_0093.wav,recordings/wav16k/rec_0093.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_noise5,paddy,train,noise5,अगर खेख में पानिकी मात्राष्ता ही रखना बहुत ज़ोरी है
+rec_0094.wav,recordings/wav16k/rec_0094.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_phone8k,paddy,train,phone8k,खेट में पानिकी मात्रा सही रक्ना बहुत जोरी है
+rec_0095.wav,recordings/wav16k/rec_0095.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_slow,paddy,train,slow,खेट में पानिकी मात्रा सही रक्ना बहुत ज़ोरी है
+rec_0096.wav,recordings/wav16k/rec_0096.wav,खेत में पानी की मात्रा सही रखना बहुत जरूरी है।,mms_hi,synth_fast,paddy,train,fast,खेट में पानिकी मात्रा सही रक्ना बहुत ज़ोरी है

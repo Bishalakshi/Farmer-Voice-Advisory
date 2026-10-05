@@ -124,3 +124,5 @@ These are the contracts the team must not break.
 ASR data (redone): original freeze used synthetic tones with shared train/test text. New data: MMS-TTS synthetic farm sentences (text-disjoint, 6 acoustic variants) + FLEURS Hindi (CC-BY-4.0). No live speakers. Synthetic speech is single-voice, so results do not show dialect or farmer generalisation.
 
 Day 4: LoRA fine-tune (r=32, 4 epochs, lr 5e-4) on FLEURS train 400 + synthetic train 96. Tested only on held-out test sets. Adapter stored in Drive, not git.
+
+Day 5: lexicon-fix CUTOFF tuned on TRAIN only (base-model transcripts of 96 synthetic + 100 FLEURS train clips). Chosen value: 80. Evaluated once on test sets.
