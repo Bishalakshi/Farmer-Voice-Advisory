@@ -1,0 +1,37 @@
+﻿filename,audio_path,text,speaker,dialect,entities,split,condition,hyp
+rec_0097.wav,recordings/wav16k/rec_0097.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_clean,paddy,test,clean,जान में खादेने का सही समें कब है
+rec_0098.wav,recordings/wav16k/rec_0098.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_noise10,paddy,test,noise10,जान में खादेने का सही समें कब है
+rec_0099.wav,recordings/wav16k/rec_0099.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_noise5,paddy,test,noise5,जान में खादेने का सही समें कब है
+rec_0100.wav,recordings/wav16k/rec_0100.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_phone8k,paddy,test,phone8k,जान में खादेने का सही समें कब है
+rec_0101.wav,recordings/wav16k/rec_0101.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_slow,paddy,test,slow,जान में खादेने का सही समें कब है?
+rec_0102.wav,recordings/wav16k/rec_0102.wav,धान में खाद देने का सही समय कब है?,mms_hi,synth_fast,paddy,test,fast,जान में खादेने का सही समें कब है
+rec_0103.wav,recordings/wav16k/rec_0103.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_clean,tomato|whitefly|brinjal,test,clean,सफेद मखिए का प्रकुप तमातर और भेंगन पर जादा होता है
+rec_0104.wav,recordings/wav16k/rec_0104.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_noise10,tomato|whitefly|brinjal,test,noise10,सखेद मखी का प्रकुष्टमातर और भेंगन पर जाड़ होता है
+rec_0105.wav,recordings/wav16k/rec_0105.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_noise5,tomato|whitefly|brinjal,test,noise5,तकेद मक्फी का प्रकुख्तमातर वर भेंगन पर जाडा होता
+rec_0106.wav,recordings/wav16k/rec_0106.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_phone8k,tomato|whitefly|brinjal,test,phone8k,सखेद मखिखी का प्रकुप तमातर और बैंगन पर जादा होता है
+rec_0107.wav,recordings/wav16k/rec_0107.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_slow,tomato|whitefly|brinjal,test,slow,सखेद मखिखा प्रकुप्तमातर और बैंगन पर जादा हुता है
+rec_0108.wav,recordings/wav16k/rec_0108.wav,सफेद मक्खी का प्रकोप टमाटर और बैंगन पर ज्यादा होता है।,mms_hi,synth_fast,tomato|whitefly|brinjal,test,fast,सफेद मखी का प्रकुप तमातर और भेंगन पर जादा होता है
+rec_0109.wav,recordings/wav16k/rec_0109.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_clean,onion|purple_blotch,test,clean,त्याज मे बेंगनी दबा रोक की क्या दवा है
+rec_0110.wav,recordings/wav16k/rec_0110.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_noise10,onion|purple_blotch,test,noise10,अज में बेंगनी भबा रोक की क्या धवा है
+rec_0111.wav,recordings/wav16k/rec_0111.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_noise5,onion|purple_blotch,test,noise5,तियाज में बैंग मी जबा रोक की त्याजावा है
+rec_0112.wav,recordings/wav16k/rec_0112.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_phone8k,onion|purple_blotch,test,phone8k,तियाज में बेंगनी दबा रोक की क्या दवा है
+rec_0113.wav,recordings/wav16k/rec_0113.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_slow,onion|purple_blotch,test,slow,त्याज मे बेंगनी दबा रोक की क्या दवा है?
+rec_0114.wav,recordings/wav16k/rec_0114.wav,प्याज में बैंगनी धब्बा रोग की क्या दवा है?,mms_hi,synth_fast,onion|purple_blotch,test,fast,तियाज में बेंगनी दबा रोक की क्या दवा है
+rec_0115.wav,recordings/wav16k/rec_0115.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_clean,potato|late_blight,test,clean,आलु में पिछेती जुन्सा एक खतनाक बिमारी है
+rec_0116.wav,recordings/wav16k/rec_0116.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_noise10,potato|late_blight,test,noise10,आलु में पिछेटी जुन्पा एक खतनाध भीमारी है
+rec_0117.wav,recordings/wav16k/rec_0117.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_noise5,potato|late_blight,test,noise5,आलो में खिछे ती जुन्पा एक खतनाध भीमारी है
+rec_0118.wav,recordings/wav16k/rec_0118.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_phone8k,potato|late_blight,test,phone8k,आलु में पिछेती जुन्सा एक खतनाक बिमारी है
+rec_0119.wav,recordings/wav16k/rec_0119.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_slow,potato|late_blight,test,slow,आलो में पिछेती जुन्सा एक खतरनाक बिमारी है
+rec_0120.wav,recordings/wav16k/rec_0120.wav,आलू में पिछेती झुलसा एक खतरनाक बीमारी है।,mms_hi,synth_fast,potato|late_blight,test,fast,आलो में पिछेती जुल्सा एक खतनाक भीमारी है.
+rec_0121.wav,recordings/wav16k/rec_0121.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_clean,tomato|whitefly,test,clean,तुमाकर के पत्तनीचे की तर मुड रहे है
+rec_0122.wav,recordings/wav16k/rec_0122.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_noise10,tomato|whitefly,test,noise10,तमाकर के पक्तनिच्ये की तर्फ मुड़ रहे हैं
+rec_0123.wav,recordings/wav16k/rec_0123.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_noise5,tomato|whitefly,test,noise5,वमाकर के पट्ते निच्वे कि तर्व रहे है
+rec_0124.wav,recordings/wav16k/rec_0124.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_phone8k,tomato|whitefly,test,phone8k,तमाकर के पत्ते निचे की तर बवोड़ रहे है
+rec_0125.wav,recordings/wav16k/rec_0125.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_slow,tomato|whitefly,test,slow,तुमाकर के पत्ते नीचे की तर मुड रहे है
+rec_0126.wav,recordings/wav16k/rec_0126.wav,टमाटर के पत्ते नीचे की तरफ मुड़ रहे हैं।,mms_hi,synth_fast,tomato|whitefly,test,fast,तुमाकर के पक्तनिचे की तर मुडरहे है
+rec_0127.wav,recordings/wav16k/rec_0127.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_clean,tomato|early_blight,test,clean,तमातर में जुल सरोग के लक्षन क्या है?
+rec_0128.wav,recordings/wav16k/rec_0128.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_noise10,tomato|early_blight,test,noise10,तमातर में जुंसरो के लक्षन क्या हैं
+rec_0129.wav,recordings/wav16k/rec_0129.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_noise5,tomato|early_blight,test,noise5,समातर में जुईसरो के लक्षंक यहें
+rec_0130.wav,recordings/wav16k/rec_0130.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_phone8k,tomato|early_blight,test,phone8k,तमातर में जुन्सरोग के लक्षन क्या है?
+rec_0131.wav,recordings/wav16k/rec_0131.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_slow,tomato|early_blight,test,slow,तमातर में जुलसरोक के लक्षन क्या है?
+rec_0132.wav,recordings/wav16k/rec_0132.wav,टमाटर में झुलसा रोग के लक्षण क्या हैं?,mms_hi,synth_fast,tomato|early_blight,test,fast,तमातर में जुलसरोग के लक्षन क्या है
