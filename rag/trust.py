@@ -11,7 +11,8 @@ def _norm_digits(s):
 
 
 def numbers(s):
-    return {n.replace(",", ".") for n in NUM.findall(_norm_digits(s))}
+    s = re.sub(r"(?<=\d),(?=\d{3}(?!\d))", "", _norm_digits(s))   # 1,000 -> 1000 (thousands separator)
+    return {n.replace(",", ".") for n in NUM.findall(s)}
 
 
 def number_violations(answer, context_text):

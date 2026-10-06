@@ -126,3 +126,7 @@ ASR data (redone): original freeze used synthetic tones with shared train/test t
 Day 4: LoRA fine-tune (r=32, 4 epochs, lr 5e-4) on FLEURS train 400 + synthetic train 96. Tested only on held-out test sets. Adapter stored in Drive, not git.
 
 Day 5: lexicon-fix CUTOFF tuned on TRAIN only (base-model transcripts of 96 synthetic + 100 FLEURS train clips). Chosen value: 80. Evaluated once on test sets.
+
+Day 6: messages.py, risk.py messages and Hindi number words NOT verified by a native speaker. TTS tested by Whisper round-trip only.
+
+Day 6: Hindi number-to-words added (num2words lacks Hindi); risk guard added before the LLM; safety set run: <n> ungrounded numbers. No live users, no native-speaker check.

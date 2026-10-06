@@ -15,3 +15,6 @@ recordings/
 models/
 out_tts/
 sheets/
+
+data/interaction_log.jsonl
+recordings/tts_check/

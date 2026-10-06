@@ -3,6 +3,7 @@ import json, time
 import config
 from messages import ABSTAIN, WHY
 from rag import nlu, generator, trust
+from rag.risk import risk_check
 
 
 class Advisor:
@@ -42,6 +43,17 @@ class Advisor:
 
     def ask_text(self, text, place=None, lat=None, lon=None):
         t0 = time.time()
+
+        # Day 6 safety guard: dose, medicine, mixing and poisoning questions never reach the LLM.
+        # Only active when the trust layer is on, so baseline B1 stays unchanged.
+        if self.use_trust:
+            hit = risk_check(text)
+            if hit:
+                trust.log_escalation(text, "risk:" + hit[0])
+                return {"answer": hit[1], "raw_answer": "", "ok": False, "reason": "risk:" + hit[0],
+                        "nlu": {"intent": "risk"}, "metrics": {}, "passages": [],
+                        "t_text": time.time() - t0}
+
         u = nlu.extract(text, self.ontology)
         facts = []
         try:                                     # tools need internet; offline -> silently fall back to KB only
